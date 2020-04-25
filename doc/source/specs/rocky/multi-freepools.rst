@@ -96,7 +96,7 @@ REST API impact
 
 Request Example:
 
-  .. sourcecode:: json
+  .. sourcecode::
 
      {
        "name": "instance-reservation-1",
@@ -126,7 +126,7 @@ Request Example:
 
 Response Example:
 
-  .. sourcecode:: json
+  .. sourcecode::
 
      {
        "leases": {

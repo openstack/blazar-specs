@@ -85,7 +85,7 @@ REST API impact
 
 Response Example:
 
-  .. sourcecode:: json
+  .. sourcecode::
 
      {
        "allocations": [
@@ -116,7 +116,7 @@ Response Example:
 
 Response Example:
 
-  .. sourcecode:: json
+  .. sourcecode::
 
      {
        "allocation": {

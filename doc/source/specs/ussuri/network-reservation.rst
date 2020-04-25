@@ -174,7 +174,7 @@ Changes in the lease APIs
 
 Request Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "name": "network-reservation-1",
@@ -194,7 +194,7 @@ Request Example:
 
 Response Example
 
-.. sourcecode:: json
+.. sourcecode::
 
     {
       "lease": {
@@ -240,7 +240,7 @@ The five new APIs are admin APIs by default.
 
 Request Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "network_type": "vlan",
@@ -255,7 +255,7 @@ Request Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
   {
     "network": {
@@ -273,7 +273,7 @@ Response Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
   {
     "networks": [
@@ -293,7 +293,7 @@ Response Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
   {
     "network": {
@@ -315,7 +315,7 @@ No Request body or Response body.
 
   Request Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
   {
     "extra_capability_sample": "bar"
@@ -336,7 +336,6 @@ No Request body or Response body.
     }
   }
 
-.. sourcecode:: json
 
 Security impact
 ---------------

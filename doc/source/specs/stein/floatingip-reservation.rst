@@ -197,7 +197,7 @@ Changes in the lease APIs
 
 Request Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "name": "floatingip-reservation-1",
@@ -219,7 +219,7 @@ Request Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "lease": {
@@ -278,7 +278,7 @@ The four new APIs are admin APIs by default.
 
 Request Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "floating_network_id": "external-network-id",
@@ -293,7 +293,7 @@ Request Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "floatingip": {
@@ -311,7 +311,7 @@ Response Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "floatingips": [
@@ -332,7 +332,7 @@ Response Example:
 
 Response Example:
 
-.. sourcecode:: json
+.. sourcecode::
 
    {
      "floatingip": {

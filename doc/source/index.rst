@@ -10,7 +10,7 @@ Specifications
 Specifications for the blazar project are available here.
 
 Ussuri
------
+------
 
 This section has a list of specs for Ussuri release.
 
