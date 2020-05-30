@@ -28,9 +28,11 @@ extensions = [
               ]
 
 # openstackdocstheme options
-repository_name = 'openstack/blazar-specs'
-bug_project = 'blazar'
-bug_tag = ''
+openstackdocs_repo_name = 'openstack/blazar-specs'
+openstackdocs_pdf_link = True
+openstackdocs_auto_name = False
+openstackdocs_bug_project = 'blazar'
+openstackdocs_bug_tag = ''
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -74,7 +76,7 @@ exclude_patterns = ['images/source/README.rst']
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+pygments_style = 'native'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
