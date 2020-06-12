@@ -9,6 +9,18 @@ Specifications
 
 Specifications for the blazar project are available here.
 
+Victoria
+--------
+
+This section has a list of specs for Victoria release.
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   specs/victoria/*
+
 Ussuri
 ------
 
