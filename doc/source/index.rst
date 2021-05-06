@@ -9,6 +9,18 @@ Specifications
 
 Specifications for the blazar project are available here.
 
+Xena
+--------
+
+This section has a list of specs for Xena release.
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   specs/xena/*
+
 Victoria
 --------
 
