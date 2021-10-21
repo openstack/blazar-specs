@@ -9,6 +9,18 @@ Specifications
 
 Specifications for the blazar project are available here.
 
+Yoga
+----
+
+This section has a list of specs for Yoga release.
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   specs/yoga/*
+
 Xena
 ----
 
