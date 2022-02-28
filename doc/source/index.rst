@@ -9,6 +9,18 @@ Specifications
 
 Specifications for the blazar project are available here.
 
+Zed
+----
+
+This section has a list of specs for Zed release.
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   specs/zed/*
+
 Yoga
 ----
 
